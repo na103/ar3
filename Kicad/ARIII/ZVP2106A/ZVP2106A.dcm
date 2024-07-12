@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZVP2106A
+D DMOS FET P-ch 280mA 60V E-Line
+K
+F https://www.diodes.com/assets/Datasheets/ZVP2106A.pdf
+$ENDCMP
+#
+#End Doc Library

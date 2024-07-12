@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECC43DCAI-S189
+D CONN EDGE DUAL FMALE 86POS 0.100
+K
+F https://drawings-pdf.s3.amazonaws.com/C10789.pdf
+$ENDCMP
+#
+#End Doc Library
