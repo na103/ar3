@@ -17890,7 +17890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECC43DCAIS189"
+		(property "Footprint" "Library:ECC43DCAIS189"
 			(at 506.73 167.31 0)
 			(effects
 				(font
