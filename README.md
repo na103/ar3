@@ -30,9 +30,10 @@ It is a work in progress, wait to build it I have to test it first.<br>
 |1    |Conn edge female 86p|CN1                              |ECC43DCAI-S189      | from ebay or digikey ECC43DCAI-S189 |
 
 
+<br>
+If you found this my work useful, please consider buying me a cup of coffee if you want:<br>
+<a href='https://ko-fi.com/na103' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/cup-border.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<br>
-<br>
 # License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. See [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
