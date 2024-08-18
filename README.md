@@ -15,15 +15,16 @@ It is a work in progress, wait to build it I have to test it first.<br>
 |4    |Cap. 100nf          |C2-C5                            |C1206C104K5RAC7867  |                               |
 |1    |Cap. 1uF 63V        |C6                               |ESS105M050AB2AA     |                               |
 |5    |GAL16V8             |U1-U5                            |ATF16V8BQL-15JU     |                               | 
+|5    |PLCC 20 POS Socket  |U1-U5                            |540-88-020-17-400-TR| Optional                      |
 |1    |74F74               |U6                               |SN74LS74ANSR        |                               |
-|2    |TMS27PC010A-20FML   |U7, U9                           |                    | from ebay or [utsource](https://www.utsource.net) |
-|1    |HY6264ALJ-10        |U8                               |                    | from ebay or [utsource](https://www.utsource.net) |
-|1    |TC55257BFL-85L      |U10                              |                    | from ebay or [utsource](https://www.utsource.net) |
+|2    |27C010 OTP EPROM    |U7, U9                           |AT27C010-70JU-T     |                               |
+|1    |SRAM 64K            |U8                               |AS6C6264-55SCN      |                               |
+|1    |SRAM 256K           |U10                              |AS6C62256-55SCN     |                               |
 |1    |MC1455              |U11                              |MC1455DR2G          |                               |
 |1    |ZVP2106A            |Q1                               |ZVP2106A            |                               |
 |1    |Trimmer 10K         |VR1                              |3362F-1-103LF       |                               |
-|1    |Led red             |D1                               |C4SMA-RGY-CS4V1BB1  |                               |
-|1    |Led green           |D2                               |C4SMA-GGY-CU2W37A1  |                               |
+|1    |Red LED             |D1                               |TLCS5100            |                               |
+|1    |Green LED           |D2                               |TLCYG5100           |                               |
 |1    |Diode               |D3                               |LL4148-M-18         |                               |
 |1    |Button switch red   |SW1                              |D6C40F1LFS          |                               |
 |1    |SPDT ON-ON switch   |SW2                              |2MS1T1B3M2QES       |                               |
