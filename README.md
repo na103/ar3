@@ -2,7 +2,7 @@
 
 This repository contains the reverse engineering schematic for the Amiga Action Replay III and everything needed to build it.<br>
 It is a work in progress, wait to build it I have to test it first.<br>
-![alt text](https://github.com/na103/ar3/blob/main/img/3d_1.png "AR3")
+![alt text](https://github.com/na103/ar3/blob/main/img/ar3.jpg "AR3")
 <br>
 <br>
 
