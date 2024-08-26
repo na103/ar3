@@ -17,7 +17,8 @@ This repository contains the reverse engineering schematic for the Amiga Action 
 |5    |GAL16V8             |U1-U5                            |ATF16V8BQL-15JU     |                               | 
 |5    |PLCC 20 POS Socket  |U1-U5                            |540-88-020-17-400-TR| Optional                      |
 |1    |74F74               |U6                               |SN74LS74ANSR        |                               |
-|2    |27C010 OTP EPROM    |U7, U9                           |AT27C010-70JU-T     |                               |
+|2    |27C010 OTP EPROM    |U7, U9                           |AT27C010-70JU-T     | PLCC 32 OTP EPROM version     |
+|2    |M27C1001 EPROM      |U7, U9                           |M27C1001-10F1       | DIP 32 EPROM version          |
 |1    |SRAM 64K            |U8                               |AS6C6264-55SCN      |                               |
 |1    |SRAM 256K           |U10                              |AS6C62256-55SCN     |                               |
 |1    |MC1455              |U11                              |MC1455DR2G          |                               |
