@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M27C1001-12F1
+D UV EPROM and OTP EPROM
+K
+F https://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/M27C1001.pdf
+$ENDCMP
+#
+#End Doc Library
