@@ -14191,7 +14191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:DIP1499W56P254L4188H572Q32N"
+		(property "Footprint" "ARIII_Shared:DIP-32_W15.24mm-SmallerPads"
 			(at 350.52 158.75 0)
 			(effects
 				(font
@@ -17716,7 +17716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:DIP1499W56P254L4188H572Q32N"
+		(property "Footprint" "ARIII_Shared:DIP-32_W15.24mm-SmallerPads"
 			(at 287.02 158.75 0)
 			(effects
 				(font
