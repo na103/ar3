@@ -14776,7 +14776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SO-14_Hyrbrid"
 			(at 318.77 256.54 0)
 			(effects
 				(font
@@ -15006,7 +15006,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SO-14_Hyrbrid"
 			(at 478.79 307.34 0)
 			(effects
 				(font
@@ -17441,7 +17441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SO-14_Hyrbrid"
 			(at 283.21 274.32 0)
 			(effects
 				(font
