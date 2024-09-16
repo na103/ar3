@@ -14191,7 +14191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:DIP1499W56P254L4188H572Q32N"
+		(property "Footprint" "ARIII_Shared:DIP-32_W15.24mm-SmallerPads"
 			(at 350.52 158.75 0)
 			(effects
 				(font
@@ -14413,7 +14413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SO-14_Hyrbrid"
 			(at 318.77 256.54 0)
 			(effects
 				(font
@@ -14643,7 +14643,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SO-14_Hyrbrid"
 			(at 478.79 307.34 0)
 			(effects
 				(font
@@ -15754,7 +15754,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-28W_7.5x18.7mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SOP-28_MIL330_ALL"
 			(at 275.336 149.098 0)
 			(effects
 				(font
@@ -16757,7 +16757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SO-14_3.9x8.65mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SO-14_Hyrbrid"
 			(at 283.21 274.32 0)
 			(effects
 				(font
@@ -16987,7 +16987,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-28W_7.5x18.7mm_P1.27mm"
+		(property "Footprint" "ARIII_Shared:SOP-28_MIL330_ALL"
 			(at 340.106 150.368 0)
 			(effects
 				(font
@@ -17716,7 +17716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:DIP1499W56P254L4188H572Q32N"
+		(property "Footprint" "ARIII_Shared:DIP-32_W15.24mm-SmallerPads"
 			(at 287.02 158.75 0)
 			(effects
 				(font
