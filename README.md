@@ -32,8 +32,10 @@ This repository contains the reverse engineering schematic for the Amiga Action 
 |1    |SPDT ON-ON switch   |SW2                              |2MS1T1B3M2QES       |                               |
 |1    |Conn edge female 86p|CN1                              |ECC43DCAI-S189      | from ebay or digikey ECC43DCAI-S189 |
 
-
-<br>
+<br><br>
+Now thanks to fongo2k is now available the 3D printed case for the AR3 replica.<br>
+[https://www.printables.com/model/1037033-amiga-action-replay-3-replica-case](https://www.printables.com/model/1037033-amiga-action-replay-3-replica-case)
+<br><br>
 If you found this my work useful, please consider buying me a cup of coffee if you want:<br>
 <a href='https://ko-fi.com/na103' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/cup-border.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
